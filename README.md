@@ -3,13 +3,13 @@ Based on TMDB-API
 
 View DEMO: https://netflix-clone-283c0.firebaseapp.com/
 
-Technologies used: 
-  # React.JS
-    $ React Libraries: 
+  Technologies used: 
+React.JS
+     React Libraries: 
         * movie-trailer
         * react-youtube
         * axios
-  # Google Firebase
+Google Firebase
 
 DON'T FORGET TO "npm i" !  :)
 
