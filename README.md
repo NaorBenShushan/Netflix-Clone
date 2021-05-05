@@ -1,16 +1,18 @@
 # Netflix-Clone
-Based on TMDB-API
 
-View DEMO: https://netflix-clone-283c0.firebaseapp.com/
+### View DEMO: https://netflix-clone-283c0.firebaseapp.com/
 
-  Technologies used: 
-React.JS
-     React Libraries: 
-        * movie-trailer
-        * react-youtube
-        * axios
-Google Firebase
+## Technologies used
 
-DON'T FORGET TO "npm i" !  :)
+### React.JS
+- React Libraries: 
+  - movie-trailer
+  - react-youtube
+  - axios
+- Google Firebase
+- TMDB-API
 
-ENJOY
+### DON'T FORGET TO "npm i" !  :)
+
+#### ENJOY
+##### Naor
